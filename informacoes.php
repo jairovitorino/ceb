@@ -114,6 +114,9 @@ function del(delUrl) {
     <tr> 
       <td class="labelJustificado">Banco de dados: MySQL 5.0.</td>
     </tr>
+	<tr> 
+      <td class="labelJustificado">Gerenciador de vers&atilde;o: github.</td>
+    </tr>
     <tr> 
       <td class="labelJustificado">&nbsp;</td>
     </tr>
