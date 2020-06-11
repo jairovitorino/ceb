@@ -1,0 +1,7 @@
+# Use PHP70 as default
+AddHandler application/x-httpd-php70 .php
+# BEGIN custom php.ini PHP70
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home2/lauraware/public_html/ceb/class
+</IfModule>
+# END custom php.ini
